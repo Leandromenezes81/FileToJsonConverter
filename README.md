@@ -76,6 +76,12 @@ dotnet publish -c Release -o ../publish
 4. O usuário digita o número do `TemplateDocumentTypeId` desejado.
 5. O arquivo `.json` é gerado no mesmo diretório do arquivo selecionado.
 
+<img width="1483" height="761" alt="image" src="https://github.com/user-attachments/assets/a32d096c-6266-46a8-b291-989a602fbc84" />
+
+<img width="1481" height="758" alt="image" src="https://github.com/user-attachments/assets/f774744a-cbe8-4582-934c-3c21716dedeb" />
+
+<img width="1476" height="760" alt="image" src="https://github.com/user-attachments/assets/06d1a345-9598-4657-bc96-bbccefca3cff" />
+
 ## Tipos de documento disponíveis
 
 | ID | Tipo | Observação |
